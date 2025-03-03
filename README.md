@@ -1,4 +1,4 @@
 Code Requirements:
 
   Visual Studio
-  Chrome Extention to have Launch.json to work or external launcher VS.CODE
+  Chrome Extention to have HTML Playground or external launcher VS.CODE
